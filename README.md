@@ -14,6 +14,34 @@
 <p align="center">
   <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
 </p>
+
+```yml
+name: generator
+
+on:
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'ci skip')"
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update readme
+        uses: linuxsuren/yaml-readme@v0.0.6
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          pattern: 'config/*/*.yml'
+          username: linuxsuren
+          org: linuxsuren
+          repo: hd-home
+```
+
 ```yml
   name: Kigula Jesse James
   located_in: Kampala, Uganda 
