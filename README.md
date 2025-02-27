@@ -63,7 +63,7 @@
   
 </p>
 
-<h2 align="center">My Github History📈</h2>
+<h2 align="left">My Github History📈</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KigulaJesse&show_icons=true&theme=radical)](https://github.com/KigulaJesse)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KigulaJesse&layout=compact&theme=radical)](https://github.com/KigulaJesse)
