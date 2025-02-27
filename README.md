@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
+</p>
 
 <h2 align="center"> 🚀&nbsp;Reach out, I am always available</h2>
 <p align="center">
