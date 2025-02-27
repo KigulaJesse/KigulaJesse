@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/f1aeef3c-14ba-42e5-a4b0-c98ab2fd9717)<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
@@ -7,6 +7,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jkigula">
     <img height="50" src="https://github.com/user-attachments/assets/ac9f7136-ac8a-4bde-90e2-9cbc14c73c48"/>
+  </a>
+
+  <a href="https://www.facebook.com/jesse.kigula/">
+    <img height="50" src="https://github.com/user-attachments/assets/33c8bd65-71b8-4de2-84d2-0bebe29b3d4a"/>
   </a>
 </p>
 
