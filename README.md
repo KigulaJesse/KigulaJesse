@@ -45,7 +45,7 @@
     "Hanging Out with Friends", 
     "Art"
   ]
-```
+```yaml
 
 <h2 align="center">Some Tools I Love Using🚀</h2>
 <p align="center">
