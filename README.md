@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20Minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
-<h2 align="left">Get to know me better👨🏾‍💻</h2>
+<h2 align="left">Get to know me and the Technologies I use👨🏾‍💻</h2>
 
 ```yml
   name: Kigula Jesse James
@@ -46,13 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
-  
 </p>
 
 <h2 align="left">My Github History📈</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KigulaJesse&show_icons=true&theme=radical)](https://github.com/KigulaJesse)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KigulaJesse&layout=compact&theme=radical)](https://github.com/KigulaJesse)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&redirect=true)
 
