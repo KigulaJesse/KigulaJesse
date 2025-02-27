@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<iframe src="https://lottie.host/embed/41a2b1ca-9c72-465f-a15e-0f7a2a254f23/uaFebv5oZV.lottie"></iframe>
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Love Using</h2>
 <p align="centre">
