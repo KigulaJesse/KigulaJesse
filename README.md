@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20Minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 <h2 align="center"> 🚀&nbsp;Reach out, I am always available</h2>
 <p align="center">
@@ -10,6 +10,9 @@
     <img height="50" src="https://github.com/user-attachments/assets/33c8bd65-71b8-4de2-84d2-0bebe29b3d4a"/>
   </a>
 </p>
+
+<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/288676ee-d380-4984-b6c0-c4852eed28ec/4ZXs5z5BYt.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
 
 <h2> 🚀 &nbsp;Some Tools I Love Using</h2>
 <p align="left">
