@@ -14,6 +14,38 @@
 <p align="center">
   <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
 </p>
+```yaml
+  name: Kigula Jesse James
+  located_in: Kampala, Uganda 
+  current_ job: Senior Software Engineer
+  education:[
+    "Bachelor of Science in Software Engineering",
+  ]
+  company: Imattt
+  fields_of_interests: [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+  technical_background: [
+    "DevOps Solutions Architect",
+    "Data Science & Machine Learning in Python",
+    "ERP Implementation Specialist",
+  ]
+  currently _learning: ["Cyber Security and React Native"]
+  2025 Goals: [
+    "Create 20+ Projects and learn at least 5 new Technologies."
+  ] 
+  hobbies: [
+    "Gaming", 
+    "Cinema", 
+    "Hanging Out with Friends", 
+    "Art"
+  ]
+```
 
 <h2 align="center">Some Tools I Love Using🚀</h2>
 <p align="center">
@@ -34,17 +66,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KigulaJesse&layout=compact&theme=radical)](https://github.com/KigulaJesse)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&redirect=true)
-<!--
-**KigulaJesse/KigulaJesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
