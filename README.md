@@ -12,6 +12,10 @@
 </p>
 ![Animation - 1740638548143](https://github.com/user-attachments/assets/a3c1b5bd-6277-44eb-8530-a74faaf7e1f4)
 <h2> 🚀 &nbsp;Some Tools I Love Using</h2>
+
+https://github.com/user-attachments/assets/ba4caf62-2433-485b-bb21-65281872eb2f
+
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
