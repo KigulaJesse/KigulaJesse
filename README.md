@@ -25,7 +25,7 @@
 <h2 align="center">My Github History📈</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KigulaJesse&show_icons=true&theme=radical)](https://github.com/KigulaJesse/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KigulaJesse&layout=compact&theme=radical)](https://github.com/KigulaJesse/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&redirect=true)
 <!--
