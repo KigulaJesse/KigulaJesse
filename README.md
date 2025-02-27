@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
+  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
 </p>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Love Using</h2>
