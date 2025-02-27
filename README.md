@@ -11,7 +11,7 @@
   </a>
 </p>
 
-![Animation - 1740639058287](https://raw.githubusercontent.com/user-attachments/assets/28e43c11-a570-4377-be20-3191dd40d3ca)
+<iframe src="https://lottie.host/embed/41a2b1ca-9c72-465f-a15e-0f7a2a254f23/uaFebv5oZV.lottie"></iframe>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Love Using</h2>
 <p align="centre">
