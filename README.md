@@ -1,20 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20Minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
-<h2 align="center">&nbsp;Let's Connect and Dance🕺🏾</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jkigula">
-    <img height="50" src="https://github.com/user-attachments/assets/ac9f7136-ac8a-4bde-90e2-9cbc14c73c48"/>
-  </a>
-  <a href="https://www.facebook.com/jesse.kigula/">
-    <img height="50" src="https://github.com/user-attachments/assets/33c8bd65-71b8-4de2-84d2-0bebe29b3d4a"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
-</p>
-
 
 <h2 align="left">Get to know me better👨🏾‍💻</h2>
 
@@ -69,4 +55,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KigulaJesse&layout=compact&theme=radical)](https://github.com/KigulaJesse)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&redirect=true)
+
+<h2 align="center">&nbsp;Let's Connect and Dance🕺🏾</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jkigula">
+    <img height="50" src="https://github.com/user-attachments/assets/ac9f7136-ac8a-4bde-90e2-9cbc14c73c48"/>
+  </a>
+  <a href="https://www.facebook.com/jesse.kigula/">
+    <img height="50" src="https://github.com/user-attachments/assets/33c8bd65-71b8-4de2-84d2-0bebe29b3d4a"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
+</p>
 
