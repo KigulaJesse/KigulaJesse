@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/f1aeef3c-14ba-42e5-a4b0-c98ab2fd9717)<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
-</p>
 
 
 <h2 align="center"> 🚀&nbsp;Reach out, I am always available</h2>
