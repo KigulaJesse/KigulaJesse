@@ -17,6 +17,7 @@
 
 
 <h2 align="left">Get to know me better👨🏾‍💻</h2>
+
 ```yml
   name: Kigula Jesse James
   located_in: Kampala, Uganda 
