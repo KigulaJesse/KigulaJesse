@@ -10,12 +10,8 @@
     <img height="50" src="https://github.com/user-attachments/assets/33c8bd65-71b8-4de2-84d2-0bebe29b3d4a"/>
   </a>
 </p>
-![Animation - 1740638548143](https://github.com/user-attachments/assets/a3c1b5bd-6277-44eb-8530-a74faaf7e1f4)
+![Animation - 1740639058287](https://github.com/user-attachments/assets/28e43c11-a570-4377-be20-3191dd40d3ca)
 <h2> 🚀 &nbsp;Some Tools I Love Using</h2>
-
-https://github.com/user-attachments/assets/ba4caf62-2433-485b-bb21-65281872eb2f
-
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
