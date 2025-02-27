@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
+![image](https://github.com/user-attachments/assets/ac9f7136-ac8a-4bde-90e2-9cbc14c73c48)
+
+
 <!--
 **KigulaJesse/KigulaJesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
