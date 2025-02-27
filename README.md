@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20Minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
-<h2 align="center">&nbsp;Let's Connect and Dance🕺🏾</h2>
+<h3 align="center">&nbsp;Let's Connect and Dance🕺🏾</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jkigula">
     <img height="50" src="https://github.com/user-attachments/assets/ac9f7136-ac8a-4bde-90e2-9cbc14c73c48"/>
@@ -15,7 +15,7 @@
   <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
 </p>
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Love Using</h2>
+<h3 align="center">Some Tools I Love Using🚀</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -28,7 +28,7 @@
   
 </p>
 
-<h2 align="center">My Github History📈</h2>
+<h3 align="center">My Github History📈</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KigulaJesse&show_icons=true&theme=radical)](https://github.com/KigulaJesse)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KigulaJesse&layout=compact&theme=radical)](https://github.com/KigulaJesse)
