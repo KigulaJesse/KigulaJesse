@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20my%20Minions!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
-<h2 align="center"> 🚀&nbsp;Let's Connect and Dance</h2>
+<h2 align="center">&nbsp;Let's Connect and Dance🕺🏾</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jkigula">
     <img height="50" src="https://github.com/user-attachments/assets/ac9f7136-ac8a-4bde-90e2-9cbc14c73c48"/>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
 </p>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Love Using</h2>
