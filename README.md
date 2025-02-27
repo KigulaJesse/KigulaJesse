@@ -16,7 +16,7 @@
 </p>
 
 
-
+<h2 align="left">Get to know me better👨🏾‍💻</h2>
 ```yml
   name: Kigula Jesse James
   located_in: Kampala, Uganda 
@@ -50,8 +50,7 @@
   ]
 ```
 
-<h2 align="center">Some Tools I Love Using🚀</h2>
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
