@@ -22,8 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrtfx6wwj4wmdlg4uuxk7lbifm&redirect=true)
 <!--
 **KigulaJesse/KigulaJesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
