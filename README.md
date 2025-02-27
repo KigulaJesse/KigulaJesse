@@ -11,7 +11,9 @@
   </a>
 </p>
 
-<img align="center" src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
+<p align="center">
+  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
+</p>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Love Using</h2>
 <p align="centre">
