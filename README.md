@@ -14,7 +14,7 @@
 <p align="center">
   <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNxejZ5OHRvYWY1NWVsemMybzV1aGdueHczaXUyNm5wc3EwMmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif"/>
 </p>
-```yaml
+```yml
   name: Kigula Jesse James
   located_in: Kampala, Uganda 
   current_ job: Senior Software Engineer
@@ -45,7 +45,7 @@
     "Hanging Out with Friends", 
     "Art"
   ]
-```yaml
+```
 
 <h2 align="center">Some Tools I Love Using🚀</h2>
 <p align="center">
